@@ -488,11 +488,11 @@
     {
       "id": "napcat-plugin-spam-checker",
       "name": "群聊刷屏检测",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "群聊刷屏检测插件 - 检测重复消息、消息频率、相似消息等刷屏行为",
-      "author": "NapCat",
+      "author": "蛙蛙",
       "homepage": "https://github.com/wozhendefuleaaa/napcat-plugin-spam-checker",
-      "downloadUrl": "https://github.com/wozhendefuleaaa/napcat-plugin-spam-checker/releases/download/v1.0.0/napcat-plugin-spam-checker.zip",
+      "downloadUrl": "https://github.com/wozhendefuleaaa/napcat-plugin-spam-checker/releases/download/v1.0.1/napcat-plugin-spam-checker.zip",
       "tags": [
         "管理"
       ],

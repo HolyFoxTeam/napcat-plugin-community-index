@@ -2,7 +2,7 @@ name: 更新插件下载量
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -10,38 +10,49 @@ permissions:
 
 jobs:
   update-download:
+    if: github.repository == 'HolyFoxTeam/napcat-plugin-community-index'
     name: 更新下载量
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: 检出代码
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
+      - name: 设置 Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
 
-      - name: 更新下载量
+      - name: 运行更新脚本
         run: node scripts/update-download-count.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 提交更改到 store 分支
+      - name: 提交更改到 store 分支（只保留 downloads.json）
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
+
           git fetch origin store 2>/dev/null || true
           if git show-ref --verify --quiet refs/heads/store; then
             git checkout store
           else
             git checkout --orphan store
           fi
-          git add plugins.v4.json
+
+          git rm -rf --ignore-unmatch .
+
+          if [ ! -f downloads.json ]; then
+            echo "❌ downloads.json 不存在，无法提交"
+            exit 1
+          fi
+
+          git add downloads.json
+
           if git diff --cached --quiet; then
-            echo "⚠️ 无文件变化，跳过提交"
+            echo "⚠️ downloads.json 无变化，跳过提交"
           else
             git commit -m "chore: 更新插件下载量"
-            echo "✅ 提交成功，准备推送 store 分支"
-            git push origin store
+            echo "✅ 提交成功，准备强制推送 store 分支"
+            git push --force origin store
           fi

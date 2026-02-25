@@ -213,11 +213,11 @@
     {
       "id": "napcat-plugin-openclaw",
       "name": "OpenClaw AI Channel",
-      "version": "1.3.3",
+      "version": "v1.4.0",
       "description": "将 QQ 变为 OpenClaw AI 助手通道，支持私聊/群聊、斜杠命令、输入状态",
       "author": "CharTyr",
       "homepage": "https://github.com/CharTyr/napcat-plugin-openclaw",
-      "downloadUrl": "https://github.com/CharTyr/napcat-plugin-openclaw/releases/download/v1.3.3/napcat-plugin-openclaw.zip",
+      "downloadUrl": "https://github.com/CharTyr/napcat-plugin-openclaw/releases/download/v1.4.0/napcat-plugin-openclaw.zip",
       "tags": [
         "AI",
         "工具",
@@ -416,21 +416,6 @@
       "minVersion": "4.14.0"
     },
     {
-      "id": "napcat-plugin-60s-api",
-      "name": "60s API",
-      "version": "1.1.1",
-      "description": "60s API 聚合插件 - 聚合多种实用API，包括热点资讯、天气、榜单查询等功能",
-      "author": "朝歌",
-      "homepage": "https://github.com/chaoge/napcat-plugin-60s-api",
-      "downloadUrl": "https://github.com/Sakurakilove/napcat-plugin-60s-api/releases/download/v1.1.1/napcat-plugin-60s-api.zip",
-      "tags": [
-        "工具",
-        "资讯",
-        "查询"
-      ],
-      "minVersion": "4.14.0"
-    },
-    {
       "id": "napcat-plugin-auto-lucky-bag",
       "name": "自动福袋",
       "version": "1.0.0",
@@ -446,11 +431,11 @@
     {
       "id": "napcat-plugin-pixiv",
       "name": "Pixiv 图片",
-      "version": "1.0.8",
+      "version": "1.1.5",
       "description": "NapCat Pixiv 插件 - 搜索与推荐 Pixiv 插画，支持合并转发",
       "author": "ChaceQC",
       "homepage": "https://github.com/ChaceQC/napcat-plugin-pixiv",
-      "downloadUrl": "https://github.com/ChaceQC/napcat-plugin-pixiv/releases/download/v1.0.8/napcat-plugin-pixiv.zip",
+      "downloadUrl": "https://github.com/ChaceQC/napcat-plugin-pixiv/releases/download/v1.1.5/napcat-plugin-pixiv.zip",
       "tags": [
         "图片",
         "Pixiv"

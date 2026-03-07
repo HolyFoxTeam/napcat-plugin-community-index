@@ -1,6 +1,7 @@
 {
   "version": "1.0.0",
   "updateTime": "2026-03-06T17:08:53Z",
+  "statsUrl": "https://raw.githubusercontent.com/HolyFoxTeam/napcat-plugin-community-index/refs/heads/store/plugin-release-data.json",
   "plugins": [
     {
       "id": "napcat-plugin-builtin",

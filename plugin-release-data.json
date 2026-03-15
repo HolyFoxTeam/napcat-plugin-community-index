@@ -1,0 +1,107 @@
+{
+  "napcat-plugin-builtin": {
+    "downloads": 10769
+  },
+  "napcat-plugin-cleaner": {
+    "downloads": 10769
+  },
+  "napcat-plugin-debug": {
+    "downloads": 2523
+  },
+  "napcat-plugin-group-manager": {
+    "downloads": 2698
+  },
+  "napcat-plugin-auto-tasks": {
+    "downloads": 2577
+  },
+  "napcat-plugin-tsai": {
+    "downloads": 1174
+  },
+  "napcat-plugin-group-revoke": {
+    "downloads": 1520
+  },
+  "napcat-plugin-ssqq": {
+    "downloads": 11313
+  },
+  "napcat-plugin-qemoji": {
+    "downloads": 1294
+  },
+  "napcat-plugin-qqemoji": {
+    "downloads": 1869
+  },
+  "napcat-plugin-hjm": {
+    "downloads": 1902
+  },
+  "napcat-plugin-delta-force": {
+    "downloads": 949
+  },
+  "napcat-plugin-autoaccept": {
+    "downloads": 1490
+  },
+  "napcat-plugin-diytitle": {
+    "downloads": 913
+  },
+  "napcat-plugin-terraria-wiki": {
+    "downloads": 375
+  },
+  "napcat-plugin-openclaw": {
+    "downloads": 299
+  },
+  "napcat-plugin-minecraft-connector": {
+    "downloads": 808
+  },
+  "napcat-plugin-email": {
+    "downloads": 623
+  },
+  "napcat-plugin-auto-to-like": {
+    "downloads": 1406
+  },
+  "napcat-plugin-master": {
+    "downloads": 801
+  },
+  "napcat-plugin-checkin": {
+    "downloads": 1515
+  },
+  "napcat-plugin-aichat": {
+    "downloads": 1249
+  },
+  "napcat-plugin-groupname": {
+    "downloads": 449
+  },
+  "napcat-plugin-novel-downloader": {
+    "downloads": 632
+  },
+  "napcat-plugin-douyin": {
+    "downloads": 1367
+  },
+  "napcat-plugin-gscore-adapter": {
+    "downloads": 899
+  },
+  "napcat-plugin-manborvc": {
+    "downloads": 897
+  },
+  "napcat-plugin-mqtt": {
+    "downloads": 223
+  },
+  "napcat-plugin-rss": {
+    "downloads": 341
+  },
+  "napcat-plugin-today-wife": {
+    "downloads": 1986
+  },
+  "napcat-plugin-auto-lucky-bag": {
+    "downloads": 323
+  },
+  "napcat-plugin-pixiv": {
+    "downloads": 639
+  },
+  "napcat-plugin-brushing": {
+    "downloads": 61
+  },
+  "napcat-plugin-update-checker": {
+    "downloads": 104
+  },
+  "napcat-plugin-spam-checker": {
+    "downloads": 30
+  }
+}

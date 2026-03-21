@@ -483,6 +483,20 @@
         "管理"
       ],
       "minVersion": "4.14.0"
+    },
+    {
+      "id": "napcat-plugin-group-invite-auto-approve",
+      "name": "自动同意加群",
+      "version": "1.0.0",
+      "description": "自动同意加群插件 - 根据群名称或群简介关键词自动同意加群邀请",
+      "author": "星陨",
+      "homepage": "https://github.com/XingYunStar/napcat-plugin-group-invite-auto-approve",
+      "downloadUrl": "https://github.com/XingYunStar/napcat-plugin-group-invite-auto-approve/releases/download/v1.0.0/napcat-plugin-group-invite-auto-approve.zip",
+      "tags": [
+        "工具",
+        "自动化"
+      ],
+      "minVersion": "4.14.0"
     }
   ]
 }

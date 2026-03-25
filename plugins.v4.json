@@ -497,6 +497,21 @@
         "自动化"
       ],
       "minVersion": "4.14.0"
+    },
+    {
+      "id": "napcat-plugin-mute-recover",
+      "name": "禁言恢复",
+      "version": "1.0.0",
+      "description": "非本人解除禁言时自动恢复剩余时间禁言",
+      "author": "星陨",
+      "homepage": "https://github.com/XingYunStar/napcat-plugin-mute-recover",
+      "downloadUrl": "https://github.com/XingYunStar/napcat-plugin-mute-recover/releases/download/v1.0.0/napcat-plugin-mute-recover.zip",
+      "tags": [
+        "管理",
+        "自动化",
+        "禁言"
+      ],
+      "minVersion": "4.14.0"
     }
   ]
 }

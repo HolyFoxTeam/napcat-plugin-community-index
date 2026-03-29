@@ -157,16 +157,16 @@
       "minVersion": "4.14.0"
     },
     {
-      "id": "napcat-plugin-delta-force",
-      "name": "三角洲行动",
-      "version": "1.1.1",
-      "description": "三角洲行动游戏数据查询插件 - 基于 NapCat 框架",
-      "author": "冷曦",
-      "homepage": "https://github.com/Entropy-Increase-Team/napcat-plugin-delta-force",
-      "downloadUrl": "https://github.com/Entropy-Increase-Team/napcat-plugin-delta-force/releases/download/v1.1.1/napcat-plugin-delta-force.zip",
+      "id": "napcat-plugin-puppeteer",
+      "name": "Puppeteer 渲染服务",
+      "version": "1.5.0",
+      "description": "NapCat Puppeteer 渲染服务插件 - 提供 HTML/模板截图渲染 API，供其他插件调用",
+      "author": "AQiaoYo",
+      "homepage": "https://github.com/AQiaoYo/napcat-plugin-puppeteer",
+      "downloadUrl": "https://github.com/AQiaoYo/napcat-plugin-puppeteer/releases/download/v1.5.0/napcat-plugin-puppeteer.zip",
       "tags": [
-        "游戏",
-        "工具"
+        "工具",
+        "渲染"
       ],
       "minVersion": "4.14.0"
     },

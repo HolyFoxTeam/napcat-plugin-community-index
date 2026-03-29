@@ -447,11 +447,11 @@
     {
       "id": "napcat-plugin-update-checker",
       "name": "插件更新检测",
-      "version": "1.0.4",
-      "description": "一个支持添加第三方插件源的插件更新检测工具，定时检查已安装插件更新，可设置提醒或自动更新。",
+      "version": "1.1.0",
+      "description": "一个支持添加第三方插件源，多种功能的超级更新检测工具，支持nc插件以及多Git提供商仓库更新检查定与推送。",
       "author": "MortalCat",
       "homepage": "https://github.com/xiowo/napcat-plugin-update-checker",
-      "downloadUrl": "https://github.com/xiowo/napcat-plugin-update-checker/releases/download/v1.0.4/napcat-plugin-update-checker.zip",
+      "downloadUrl": "https://github.com/xiowo/napcat-plugin-update-checker/releases/download/v1.1.0/napcat-plugin-update-checker.zip",
       "tags": [
         "工具",
         "管理"

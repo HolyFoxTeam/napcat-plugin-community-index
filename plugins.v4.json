@@ -545,11 +545,11 @@
     {
       "id": "napcat-plugin-fun-pack",
       "name": "fun-pack",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "description": "NapCat 娱乐功能合集插件",
       "author": "sanxi",
       "homepage": "https://github.com/sanxi33/napcat-plugin-fun-pack",
-      "downloadUrl": "https://github.com/sanxi33/napcat-plugin-fun-pack/releases/download/v0.1.1/napcat-plugin-fun-pack.zip",
+      "downloadUrl": "https://github.com/sanxi33/napcat-plugin-fun-pack/releases/download/v0.1.2/napcat-plugin-fun-pack.zip",
       "tags": [
         "娱乐",
         "工具"

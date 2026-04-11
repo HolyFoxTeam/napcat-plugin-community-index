@@ -503,11 +503,11 @@
     {
       "id": "napcat-plugin-bilibili-live-push",
       "name": "bilibili-live-push",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "description": "NapCat Bilibili 开播通知推送插件",
       "author": "sanxi",
       "homepage": "https://github.com/sanxi33/napcat-plugin-bilibili-live-push",
-      "downloadUrl": "https://github.com/sanxi33/napcat-plugin-bilibili-live-push/releases/download/v0.1.1/napcat-plugin-bilibili-live-push.zip",
+      "downloadUrl": "https://github.com/sanxi33/napcat-plugin-bilibili-live-push/releases/download/v0.1.2/napcat-plugin-bilibili-live-push.zip",
       "tags": [
         "通知",
         "工具"

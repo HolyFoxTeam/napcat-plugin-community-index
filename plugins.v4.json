@@ -559,11 +559,11 @@
     {
       "id": "napcat-plugin-twitter-push",
       "name": "twitter-push",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "description": "NapCat X/Twitter 查询与推送插件",
       "author": "sanxi",
       "homepage": "https://github.com/sanxi33/napcat-plugin-twitter-push",
-      "downloadUrl": "https://github.com/sanxi33/napcat-plugin-twitter-push/releases/download/v0.2.0/napcat-plugin-twitter-push.zip",
+      "downloadUrl": "https://github.com/sanxi33/napcat-plugin-twitter-push/releases/download/v0.2.1/napcat-plugin-twitter-push.zip",
       "tags": [
         "通知",
         "社交"

@@ -573,11 +573,11 @@
     {
       "id": "napcat-plugin-weibo-push",
       "name": "weibo-push",
-      "version": "0.2.0",
+      "version": "0.2.2",
       "description": "NapCat 微博查询与推送插件",
       "author": "sanxi",
       "homepage": "https://github.com/sanxi33/napcat-plugin-weibo-push",
-      "downloadUrl": "https://github.com/sanxi33/napcat-plugin-weibo-push/releases/download/v0.2.0/napcat-plugin-weibo-push.zip",
+      "downloadUrl": "https://github.com/sanxi33/napcat-plugin-weibo-push/releases/download/v0.2.2/napcat-plugin-weibo-push.zip",
       "tags": [
         "通知",
         "社交"

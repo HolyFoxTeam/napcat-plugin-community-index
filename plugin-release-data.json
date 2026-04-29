@@ -1,0 +1,134 @@
+{
+  "napcat-plugin-builtin": {
+    "downloads": 20824
+  },
+  "napcat-plugin-cleaner": {
+    "downloads": 20824
+  },
+  "napcat-plugin-debug": {
+    "downloads": 5295
+  },
+  "napcat-plugin-group-manager": {
+    "downloads": 2928
+  },
+  "napcat-plugin-auto-tasks": {
+    "downloads": 2793
+  },
+  "napcat-plugin-tsai": {
+    "downloads": 1388
+  },
+  "napcat-plugin-group-revoke": {
+    "downloads": 0
+  },
+  "napcat-plugin-ssqq": {
+    "downloads": 17966
+  },
+  "napcat-plugin-qemoji": {
+    "downloads": 0
+  },
+  "napcat-plugin-qqemoji": {
+    "downloads": 0
+  },
+  "napcat-plugin-hjm": {
+    "downloads": 0
+  },
+  "napcat-plugin-puppeteer": {
+    "downloads": 2634
+  },
+  "napcat-plugin-autoaccept": {
+    "downloads": 0
+  },
+  "napcat-plugin-diytitle": {
+    "downloads": 0
+  },
+  "napcat-plugin-terraria-wiki": {
+    "downloads": 569
+  },
+  "napcat-plugin-openclaw": {
+    "downloads": 396
+  },
+  "napcat-plugin-minecraft-connector": {
+    "downloads": 1010
+  },
+  "napcat-plugin-email": {
+    "downloads": 819
+  },
+  "napcat-plugin-auto-to-like": {
+    "downloads": 1628
+  },
+  "napcat-plugin-checkin": {
+    "downloads": 1724
+  },
+  "napcat-plugin-aichat": {
+    "downloads": 1463
+  },
+  "napcat-plugin-groupname": {
+    "downloads": 648
+  },
+  "napcat-plugin-novel-downloader": {
+    "downloads": 838
+  },
+  "napcat-plugin-douyin": {
+    "downloads": 1592
+  },
+  "napcat-plugin-gscore-adapter": {
+    "downloads": 1219
+  },
+  "napcat-plugin-manborvc": {
+    "downloads": 1074
+  },
+  "napcat-plugin-mqtt": {
+    "downloads": 382
+  },
+  "napcat-plugin-rss": {
+    "downloads": 543
+  },
+  "napcat-plugin-today-wife": {
+    "downloads": 2167
+  },
+  "napcat-plugin-auto-lucky-bag": {
+    "downloads": 486
+  },
+  "napcat-plugin-pixiv": {
+    "downloads": 876
+  },
+  "napcat-plugin-brushing": {
+    "downloads": 155
+  },
+  "napcat-plugin-update-checker": {
+    "downloads": 339
+  },
+  "napcat-plugin-spam-checker": {
+    "downloads": 118
+  },
+  "napcat-plugin-group-invite-auto-approve": {
+    "downloads": 53
+  },
+  "napcat-plugin-mute-recover": {
+    "downloads": 39
+  },
+  "napcat-plugin-ai-chat-template": {
+    "downloads": 30
+  },
+  "napcat-plugin-bilibili-live-push": {
+    "downloads": 35
+  },
+  "napcat-plugin-ff14-market-house": {
+    "downloads": 33
+  },
+  "napcat-plugin-music-share": {
+    "downloads": 48
+  },
+  "napcat-plugin-fun-pack": {
+    "downloads": 40
+  },
+  "napcat-plugin-twitter-push": {
+    "downloads": 30
+  },
+  "napcat-plugin-weibo-push": {
+    "downloads": 38
+  },
+  "napcat-plugin-ff14-logs": {
+    "downloads": 23
+  }
+}

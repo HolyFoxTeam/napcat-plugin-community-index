@@ -88,20 +88,6 @@
       "minVersion": "4.14.0"
     },
     {
-      "id": "napcat-plugin-group-revoke",
-      "name": "撤回猪手",
-      "version": "1.0",
-      "description": "多类型消息撤回",
-      "author": "鸡太美",
-      "homepage": "https://github.com/ovoox/napcat-plugin-group-revoke",
-      "downloadUrl": "https://github.com/ovoox/napcat-plugin-group-revoke/releases/download/v1.0.0/napcat-plugin-group-revoke.zip",
-      "tags": [
-        "群管",
-        "撤回"
-      ],
-      "minVersion": "4.14.0"
-    },
-    {
       "id": "napcat-plugin-ssqq",
       "name": "Stapxs QQ Lite",
       "version": "3.3.3-2",
@@ -115,48 +101,6 @@
       "minVersion": "4.14.13"
     },
     {
-      "id": "napcat-plugin-qemoji",
-      "name": "固定表情回应",
-      "version": "1.0.0",
-      "description": "NapCat固定表情消息回应",
-      "author": "鸡太美",
-      "homepage": "https://github.com/ovoox/napcat-plugin-qemoji",
-      "downloadUrl": "https://github.com/ovoox/napcat-plugin-qemoji/releases/download/v1.0.0/napcat-plugin-qemoji.zip",
-      "tags": [
-        "工具",
-        "表情"
-      ],
-      "minVersion": "4.14.0"
-    },
-    {
-      "id": "napcat-plugin-qqemoji",
-      "name": "检测表情回应",
-      "version": "1.0.0",
-      "description": "NapCat检测消息中的表情并进行回应",
-      "author": "鸡太美",
-      "homepage": "https://github.com/ovoox/napcat-plugin-qqemoji",
-      "downloadUrl": "https://github.com/ovoox/napcat-plugin-qqemoji/releases/download/v1.0.0/napcat-plugin-qqemoji.zip",
-      "tags": [
-        "工具",
-        "表情"
-      ],
-      "minVersion": "4.14.0"
-    },
-    {
-      "id": "napcat-plugin-hjm",
-      "name": "哈基米语音",
-      "version": "1.0.0",
-      "description": "NapCat随机哈基米语音",
-      "author": "鸡太美",
-      "homepage": "https://github.com/ovoox/napcat-plugin-hjm",
-      "downloadUrl": "https://github.com/ovoox/napcat-plugin-hjm/releases/download/v1.0.0/napcat-plugin-hjm.zip",
-      "tags": [
-        "语音",
-        "哈基米"
-      ],
-      "minVersion": "4.14.0"
-    },
-    {
       "id": "napcat-plugin-puppeteer",
       "name": "Puppeteer 渲染服务",
       "version": "1.5.0",
@@ -167,34 +111,6 @@
       "tags": [
         "工具",
         "渲染"
-      ],
-      "minVersion": "4.14.0"
-    },
-    {
-      "id": "napcat-plugin-autoaccept",
-      "name": "自动同意群/好友申请",
-      "version": "1.0.0",
-      "description": "NapCat自动同意加群/加好友申请",
-      "author": "鸡太美",
-      "homepage": "https://github.com/ovoox/napcat-plugin-autoaccept",
-      "downloadUrl": "https://github.com/ovoox/napcat-plugin-autoaccept/releases/download/v1.0.0/napcat-plugin-autoaccept.zip",
-      "tags": [
-        "群管",
-        "自动"
-      ],
-      "minVersion": "4.14.0"
-    },
-    {
-      "id": "napcat-plugin-diytitle",
-      "name": "自助头衔",
-      "version": "1.0.0",
-      "description": "NapCat群聊自助头衔",
-      "author": "鸡太美",
-      "homepage": "https://github.com/ovoox/napcat-plugin-diytitle",
-      "downloadUrl": "https://github.com/ovoox/napcat-plugin-diytitle/releases/download/v1.0.0/napcat-plugin-diytitle.zip",
-      "tags": [
-        "工具",
-        "头衔"
       ],
       "minVersion": "4.14.0"
     },

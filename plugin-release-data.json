@@ -1,0 +1,116 @@
+{
+  "napcat-plugin-builtin": {
+    "downloads": 23193
+  },
+  "napcat-plugin-cleaner": {
+    "downloads": 23193
+  },
+  "napcat-plugin-debug": {
+    "downloads": 5907
+  },
+  "napcat-plugin-group-manager": {
+    "downloads": 2943
+  },
+  "napcat-plugin-auto-tasks": {
+    "downloads": 2813
+  },
+  "napcat-plugin-tsai": {
+    "downloads": 1402
+  },
+  "napcat-plugin-ssqq": {
+    "downloads": 19499
+  },
+  "napcat-plugin-puppeteer": {
+    "downloads": 2661
+  },
+  "napcat-plugin-terraria-wiki": {
+    "downloads": 586
+  },
+  "napcat-plugin-openclaw": {
+    "downloads": 418
+  },
+  "napcat-plugin-minecraft-connector": {
+    "downloads": 1031
+  },
+  "napcat-plugin-email": {
+    "downloads": 835
+  },
+  "napcat-plugin-auto-to-like": {
+    "downloads": 1653
+  },
+  "napcat-plugin-checkin": {
+    "downloads": 1745
+  },
+  "napcat-plugin-aichat": {
+    "downloads": 1492
+  },
+  "napcat-plugin-groupname": {
+    "downloads": 664
+  },
+  "napcat-plugin-novel-downloader": {
+    "downloads": 858
+  },
+  "napcat-plugin-douyin": {
+    "downloads": 1615
+  },
+  "napcat-plugin-gscore-adapter": {
+    "downloads": 1294
+  },
+  "napcat-plugin-manborvc": {
+    "downloads": 1097
+  },
+  "napcat-plugin-mqtt": {
+    "downloads": 398
+  },
+  "napcat-plugin-rss": {
+    "downloads": 560
+  },
+  "napcat-plugin-today-wife": {
+    "downloads": 2200
+  },
+  "napcat-plugin-auto-lucky-bag": {
+    "downloads": 502
+  },
+  "napcat-plugin-pixiv": {
+    "downloads": 901
+  },
+  "napcat-plugin-brushing": {
+    "downloads": 171
+  },
+  "napcat-plugin-update-checker": {
+    "downloads": 368
+  },
+  "napcat-plugin-spam-checker": {
+    "downloads": 137
+  },
+  "napcat-plugin-group-invite-auto-approve": {
+    "downloads": 67
+  },
+  "napcat-plugin-mute-recover": {
+    "downloads": 47
+  },
+  "napcat-plugin-ai-chat-template": {
+    "downloads": 38
+  },
+  "napcat-plugin-bilibili-live-push": {
+    "downloads": 49
+  },
+  "napcat-plugin-ff14-market-house": {
+    "downloads": 41
+  },
+  "napcat-plugin-music-share": {
+    "downloads": 59
+  },
+  "napcat-plugin-fun-pack": {
+    "downloads": 51
+  },
+  "napcat-plugin-twitter-push": {
+    "downloads": 41
+  },
+  "napcat-plugin-weibo-push": {
+    "downloads": 46
+  },
+  "napcat-plugin-ff14-logs": {
+    "downloads": 31
+  }
+}

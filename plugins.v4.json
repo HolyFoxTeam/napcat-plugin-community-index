@@ -306,20 +306,6 @@
       "minVersion": "4.14.0"
     },
     {
-      "id": "napcat-plugin-today-wife",
-      "name": "今日老婆",
-      "version": "1.0.5",
-      "description": "群聊互动插件 - 发送'今日老婆'随机抽取群成员作为今日老婆，支持每日记录和头像展示",
-      "author": "Sakurakilove",
-      "homepage": "https://github.com/Sakurakilove/napcat-plugin-today-wife",
-      "downloadUrl": "https://github.com/Sakurakilove/napcat-plugin-today-wife/releases/download/v1.0.5/napcat-plugin-today-wife.zip",
-      "tags": [
-        "娱乐",
-        "群聊"
-      ],
-      "minVersion": "4.14.0"
-    },
-    {
       "id": "napcat-plugin-auto-lucky-bag",
       "name": "自动福袋",
       "version": "1.0.0",

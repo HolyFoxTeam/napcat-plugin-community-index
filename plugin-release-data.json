@@ -1,0 +1,122 @@
+{
+  "napcat-plugin-builtin": {
+    "downloads": 82049
+  },
+  "napcat-plugin-cleaner": {
+    "downloads": 82049
+  },
+  "napcat-plugin-debug": {
+    "downloads": 20588
+  },
+  "napcat-plugin-group-manager": {
+    "downloads": 3156
+  },
+  "napcat-plugin-auto-tasks": {
+    "downloads": 3018
+  },
+  "napcat-plugin-tsai": {
+    "downloads": 1655
+  },
+  "napcat-plugin-ssqq": {
+    "downloads": 41680
+  },
+  "napcat-plugin-puppeteer": {
+    "downloads": 2924
+  },
+  "napcat-plugin-terraria-wiki": {
+    "downloads": 859
+  },
+  "napcat-plugin-openclaw": {
+    "downloads": 729
+  },
+  "napcat-plugin-auto-to-like": {
+    "downloads": 1974
+  },
+  "napcat-plugin-checkin": {
+    "downloads": 2091
+  },
+  "napcat-plugin-aichat": {
+    "downloads": 1849
+  },
+  "napcat-plugin-groupname": {
+    "downloads": 934
+  },
+  "napcat-plugin-novel-downloader": {
+    "downloads": 1145
+  },
+  "napcat-plugin-douyin": {
+    "downloads": 2013
+  },
+  "napcat-plugin-gscore-adapter": {
+    "downloads": 2083
+  },
+  "napcat-plugin-manborvc": {
+    "downloads": 1398
+  },
+  "napcat-plugin-mqtt": {
+    "downloads": 661
+  },
+  "napcat-plugin-rss": {
+    "downloads": 829
+  },
+  "napcat-plugin-auto-lucky-bag": {
+    "downloads": 766
+  },
+  "napcat-plugin-pixiv": {
+    "downloads": 1258
+  },
+  "napcat-plugin-brushing": {
+    "downloads": 444
+  },
+  "napcat-plugin-update-checker": {
+    "downloads": 853
+  },
+  "napcat-plugin-spam-checker": {
+    "downloads": 410
+  },
+  "napcat-plugin-group-invite-auto-approve": {
+    "downloads": 261
+  },
+  "napcat-plugin-mute-recover": {
+    "downloads": 183
+  },
+  "napcat-plugin-ai-chat-template": {
+    "downloads": 218
+  },
+  "napcat-plugin-bilibili-live-push": {
+    "downloads": 210
+  },
+  "napcat-plugin-ff14-market-house": {
+    "downloads": 180
+  },
+  "napcat-plugin-music-share": {
+    "downloads": 234
+  },
+  "napcat-plugin-fun-pack": {
+    "downloads": 250
+  },
+  "napcat-plugin-twitter-push": {
+    "downloads": 187
+  },
+  "napcat-plugin-weibo-push": {
+    "downloads": 194
+  },
+  "napcat-plugin-ff14-logs": {
+    "downloads": 165
+  },
+  "napcat-plugin-teamspeaklink": {
+    "downloads": 132
+  },
+  "napcat-plugin-mcrcon": {
+    "downloads": 129
+  },
+  "napcat-plugin-ai-chat-pro": {
+    "downloads": 176
+  },
+  "napcat-plugin-mute-list": {
+    "downloads": 101
+  },
+  "napcat-plugin-yunfeng": {
+    "downloads": 65
+  }
+}

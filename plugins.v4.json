@@ -554,6 +554,21 @@
         "其他"
       ],
       "minVersion": "4.14.0"
+    },
+    {
+      "id": "napcat-plugin-importer",
+      "name": "插件导入器",
+      "version": "1.0.2",
+      "description": "在 WebUI 里恢复「导入插件」页面与接口：上传本地 zip 即可安装/启用插件（任何带插件系统的 NapCat 版本可用）",
+      "author": "星陨",
+      "homepage": "https://github.com/XingYunStar/napcat-plugin-importer",
+      "downloadUrl": "https://github.com/XingYunStar/napcat-plugin-importer/releases/download/v1.0.2/napcat-plugin-importer.zip",
+      "tags": [
+        "工具",
+        "WebUI",
+        "插件管理"
+      ],
+      "minVersion": "4.12.0"
     }
   ]
 }

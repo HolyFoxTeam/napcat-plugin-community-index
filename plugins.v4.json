@@ -569,6 +569,21 @@
         "插件管理"
       ],
       "minVersion": "4.12.0"
+    },
+    {
+      "id": "napcat-plugin-banned-words",
+      "name": "违禁词过滤",
+      "version": "1.0.0",
+      "description": "违禁词过滤插件：群白名单生效，命中违禁词可禁言 / 撤回 / 禁言+撤回 / 踢人 / 黑名单踢人；每个违禁词独立配置（匹配方式、处置、时长、生效群）；全程静默不发送任何消息；自带 WebUI 管理面板。",
+      "author": "星陨",
+      "homepage": "https://github.com/XingYunStar/napcat-plugin-banned-words",
+      "downloadUrl": "https://github.com/XingYunStar/napcat-plugin-banned-words/releases/download/v1.0.0/napcat-plugin-banned-words.zip",
+      "tags": [
+        "群管",
+        "管理",
+        "工具"
+      ],
+      "minVersion": "4.14.0"
     }
   ]
 }

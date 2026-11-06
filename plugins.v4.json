@@ -5,15 +5,15 @@
   "plugins": [
     {
       "id": "napcat-plugin-builtin",
-      "name": "内置插件",
-      "version": "1.0.0",
-      "description": "NapCat 内置插件",
-      "author": "NapNeko",
-      "homepage": "https://napcat.napneko.icu",
-      "downloadUrl": "https://github.com/NapNeko/napcat-plugin-index/releases/download/v1.0.0/napcat-plugin-builtin.zip",
+      "name": "插件更新检测",
+      "version": "1.2.0",
+      "description": "一个多功能更新检测工具，支持定时检查已安装插件和订阅的Git仓库更新。",
+      "author": "MortalCat",
+      "homepage": "https://github.com/xiowo/napcat-plugin-update-checker",
+      "downloadUrl": "https://github.com/xiowo/napcat-plugin-update-checker/releases/download/v1.2.0/napcat-plugin-update-checker.zip",
       "tags": [
-        "官方",
-        "工具"
+        "工具",
+        "管理"
       ],
       "minVersion": "4.14.0"
     },
